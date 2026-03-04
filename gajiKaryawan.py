@@ -11,8 +11,3 @@ TotalPotongan = GajiKotor * TotalPersen
 
 GajiBersih = GajiKotor - TotalPotongan
 print("total gaji karyawan RP: ", GajiBersih)
-
-
-
-
-
