@@ -1,7 +1,5 @@
 
-print ("tester")
-print ("hei")
-print ("hai")
-jokowi = "presiden"
-a="hell nah"
+print ("anjay")
+s=babay
+p=kakangkung
 
